@@ -1,0 +1,5 @@
+{
+    "integrity": "sha256-8AWV+t10rDGmloN3OFbXywSWWO+YWogJkO4uu8wgs3E=",
+    "strip_prefix": "bazel-lib-1.7.20",
+    "url": "https://github.com/publish-to-bcr-dev/bazel-lib/archive/refs/tags/v1.7.20.tar.gz"
+}
