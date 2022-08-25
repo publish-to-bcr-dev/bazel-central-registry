@@ -1,16 +1,18 @@
 {
-    "homepage": "https://github.com/bazelbuild/bazel-skylib",
+    "homepage": "https://docs.aspect.dev/bazel-lib",
     "maintainers": [
         {
-            "email": "bazel-dev@googlegroups.com",
-            "name": "The Bazel Team"
+            "email": "hello@aspect.dev",
+            "github": "aspect-build",
+            "name": "Aspect team"
         }
     ],
     "versions": [
         "1.0.3",
         "1.1.1",
         "1.2.0",
-        "1.2.1"
+        "1.2.1",
+        "1.7.75"
     ],
     "yanked_versions": {}
 }
