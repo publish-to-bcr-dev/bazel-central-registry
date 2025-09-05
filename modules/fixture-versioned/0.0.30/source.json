@@ -1,0 +1,5 @@
+{
+    "integrity": "sha256-kSMISaDH51qyySEj6jnX27/X2bLclJbavD9iD4ws69I=",
+    "strip_prefix": "fixture-versioned-0.0.30",
+    "url": "https://github.com/publish-to-bcr-dev/fixture-versioned/releases/download/bazel-v0.0.30/fixture-versioned-bazel-v0.0.30.tar.gz"
+}
