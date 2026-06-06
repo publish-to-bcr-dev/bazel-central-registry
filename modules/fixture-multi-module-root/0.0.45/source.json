@@ -1,0 +1,9 @@
+{
+    "integrity": "sha256-Nq70cjsA2rSpeg7Iz+7ol7oxb7dh2BWVvMHLMDZVQb8=",
+    "strip_prefix": "fixture-multi-module-root-0.0.45",
+    "url": "https://github.com/publish-to-bcr-dev/fixture-multi-module/releases/download/v0.0.45/fixture-multi-module-root-v0.0.45.tar.gz",
+    "patches": {
+        "module_dot_bazel_version.patch": "sha256-p+bL4Bg/MP4WL4dJm0ex+DYkmUY0vijwntJNtwxfyRQ="
+    },
+    "patch_strip": 1
+}
