@@ -1,0 +1,9 @@
+{
+    "integrity": "sha256-v7IZTwcGq/REpL0QVPIzZ2hOfukudGqRxUsBxeuK2zs=",
+    "strip_prefix": "fixture-multi-module-sub-0.0.32/sub/module",
+    "url": "https://github.com/publish-to-bcr-dev/fixture-multi-module/releases/download/v0.0.32/fixture-multi-module-sub-v0.0.32.tar.gz",
+    "patches": {
+        "module_dot_bazel_version.patch": "sha256-hwV+f/LmCPHI1Akna+83l8EbtDnaZEA34ac3t3aw6TY="
+    },
+    "patch_strip": 1
+}
