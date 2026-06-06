@@ -1,0 +1,9 @@
+{
+    "integrity": "sha256-bTF50XNAypKzVLsTsu03okuIIqjgTe0IQrI5IZT7j4Y=",
+    "strip_prefix": "fixture-multi-module-sub-0.0.46/sub/module",
+    "url": "https://github.com/publish-to-bcr-dev/fixture-multi-module/releases/download/v0.0.46/fixture-multi-module-sub-v0.0.46.tar.gz",
+    "patches": {
+        "module_dot_bazel_version.patch": "sha256-GznwdfmZjOI5yES3J29GUMSC3OH2ZpT2Ey1/RJr4OEs="
+    },
+    "patch_strip": 1
+}

@@ -1,0 +1,17 @@
+{
+    "mediaType": "application/vnd.build.bazel.registry.attestation+json;version=1.0.0",
+    "attestations": {
+        "source.json": {
+            "url": "https://github.com/publish-to-bcr-dev/fixture-multi-module/releases/download/v0.0.46/source.json.intoto.jsonl",
+            "integrity": "sha256-Ob2/FMyk6Mslq9Lq9gMxVVPxlgUC+TzUIum/Oau4HuU="
+        },
+        "MODULE.bazel": {
+            "url": "https://github.com/publish-to-bcr-dev/fixture-multi-module/releases/download/v0.0.46/MODULE.bazel.intoto.jsonl",
+            "integrity": "sha256-absdsU+WGUYULgZuS+DSwH74iEkEIu2x/LnVz0ePFlI="
+        },
+        "fixture-multi-module-sub-v0.0.46.tar.gz": {
+            "url": "https://github.com/publish-to-bcr-dev/fixture-multi-module/releases/download/v0.0.46/fixture-multi-module-sub-v0.0.46.tar.gz.intoto.jsonl",
+            "integrity": "sha256-Z5Oww/4QV2hGswNkJYwQq3IYQUrgX/OlvaZYXk5LlJw="
+        }
+    }
+}
